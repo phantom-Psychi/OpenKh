@@ -256,7 +256,7 @@ ss_50 is responsible to trigger CGI ending cutscenes. Drops "？？？　「あ�
 |-----|---------------------------------|---------------------
 |ts_01| /Game/Levels/ts/ts_01/ts_01     | Andy’s House      
 |ts_02| /Game/Levels/ts/ts_02/ts_02     | Galaxy Toys       
-|ts_03| /Game/Levels/ts/ts_03/ts_03     | Verux Rem Minigame
+|ts_03| /Game/Levels/ts/ts_03/ts_03     | Verum Rex Minigame
 |ts_04| /Game/Levels/ts/ts_04/ts_04     | UFO battle arena  
 
 ## Twilight Town
